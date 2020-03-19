@@ -1,6 +1,11 @@
 # UI-UX Reference
 
-Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](https://twitter.com/steveschoger) → https://twitter.com/steveschoger/status/1215673997725196288
+Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](https://twitter.com/steveschoger)
+
+> When designing an app, I find it really helpful to have a few reference examples to help validate UI/UX pattern ideas. 
+> Here are a few of my favourites that I have bookmarked. 
+> Any other apps I should check out?
+> https://twitter.com/steveschoger/status/1215673997725196288
 
 ## A
 

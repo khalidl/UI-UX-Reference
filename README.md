@@ -1,6 +1,6 @@
 # UI-UX Reference
 
-Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](https://twitter.com/steveschoger)
+Living Document of inspirational UI/UX. Based on a Tweet of [Steve Schoger](https://twitter.com/steveschoger) → https://twitter.com/steveschoger/status/1215673997725196288
 
 ## A
 
